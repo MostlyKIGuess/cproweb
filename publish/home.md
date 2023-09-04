@@ -21,6 +21,4 @@ Click the link above to find out how to publish your own notes!
 ### [[deploy-a-custom-linked-blog-starter|Customize this template]]
 Here is an example of how I [forked this repo](https://github.com/fleetingnotes/fleeting-notes-website) to create a landing page for [Fleeting Notes](https://www.fleetingnotes.app/).
 
-![[fn-website-demo.gif]]
-
 
