@@ -12,7 +12,9 @@ void insertionSort(int arr[], int n){
     }
 }
 ```
-This works because we take the index j as i-1 and use it to swap "up to" key is smaller than the j.  We then put the key on it's place where initially i-1 was.
+- The philosophy is if you want to insert an element into a sorted array and that's exactly how we insert that particular element into the "sorted" array.
+
+- This works because we take the index j as i-1 and use it to swap "up to" key is smaller than the j.  We then put the key on it's place where initially i-1 was.
 **Step 1** − If it is the first element, it is already sorted. return 1;
 **Step 2** − Pick next element
 **Step 3** − Compare with all elements in the sorted sub-list
