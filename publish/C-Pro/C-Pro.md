@@ -1,3 +1,9 @@
+---
+share: true
+---
+
+%%waypoint%%
+
 
 
 
@@ -17,7 +23,9 @@ C++ - [[Bjarne_Stroustrup_-_A_Tour_of_C-Addison-Wesley_2013.pdf]]
 - [[Typecast]]
 - [[Arrays]]
 - [[Algorithms]]
-- [[Funtions in C]]
+- [[Functions in C]]
+- [[Pointers]]
+
 
 
 

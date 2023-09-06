@@ -6,7 +6,7 @@
 
 [[Sorting Algos]]
 
-[[Two Pointers Approach]]
+[[Pointers]]
 
 
 

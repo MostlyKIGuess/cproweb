@@ -55,3 +55,5 @@ int  main(){
 
 }
 ```
+
+[[Two Pointers Approach]]
