@@ -1,10 +1,11 @@
-[[real _analysis_quiz_1.pdf]]
+[[quiz1ra.pdf]]
 
-[[real_anyalysis_quiz_2.pdf]]
 
-[[real_analysis_midsem.pdf]]
+[[raquiz2.pdf]]
 
-[[real_analysis_endsem.pdf]]
+[[ramidsem.pdf]]
 
-[[RA_end1_2022_M.pdf]]
-[[RA_end2_2022_M.pdf]]
+[[raendsem.pdf]]
+
+[[RAendsem20221.pdf]]
+[[RAendsem20222.pdf]]
