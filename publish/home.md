@@ -7,9 +7,10 @@ and idek how clumsy there are it's just fun.
 - You can search, RA notes are actually good ngl. :D
 
 
-![[C-Pro]]
+### [[C-Pro]]
 
+### [[C-Pro PYQ]]
 
-![[C-Pro PYQ]]
-
-![[RA]]
+### [[RA]]
+  
+### [[RA PYQ]]
