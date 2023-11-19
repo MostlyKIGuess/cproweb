@@ -6,7 +6,7 @@
 
 - [[Limits at infinity]]
 
--  [[Infinite limits at infinity]]
-
-
 - [[Limits of monotone functions]]
+
+- [[Important Limits]]
+

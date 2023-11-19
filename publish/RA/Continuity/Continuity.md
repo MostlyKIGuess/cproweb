@@ -1,0 +1,4 @@
+- [[Continuity properties and theorems]]
+- [[Discontinuity and it’s Theorems]]
+- [[Properties of continuous function]]
+-  [[Monotone functions and continuity]]
