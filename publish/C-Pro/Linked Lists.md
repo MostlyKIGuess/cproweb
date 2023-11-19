@@ -1,4 +1,4 @@
-![[Pasted image 20231011115351.png]]
+![[Pasted image 20231011115351 1.png]]
 - Basically it’s like an array without the contiguousness of the array, they are linked using pointers. It forms a series of connected notes, where each node is going to store some data and the address of the next node.
 - It is kind of like an vector for ease of the imagination, the tail points to NULL and that’s why I think the code→ 
 
