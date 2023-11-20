@@ -11,3 +11,5 @@
 - Similarly, since $b$ is the greatest lower bound for B, there exists a rational number $r2$ such that $b < r2 < b + 1/n$ for any positive integer n. Then, we have that $r1^2 < x < y < r2^2$, which implies that $(r1^2 + r2^2)/2 < y$ and $(r1^2 + r2^2)/2 > x$. 
 - However, $(r1^2 + r2^2)/2$ is a rational number between x and y, which contradicts our assumption that there does not exist a rational number r such that $x < r^2 < y$. 
 - Therefore, there exists a rational number r such that $x < r^2 < y$.
+- ![[Pasted image 20231120125842.png]]
+- 

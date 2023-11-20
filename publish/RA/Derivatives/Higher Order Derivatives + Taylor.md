@@ -1,0 +1,4 @@
+- Leibnitz(very similar to binomial theorem):![[Pasted image 20231120135620.png]]
+- **Taylor’s Theorem:**![[Pasted image 20231120135751.png]]![[Pasted image 20231120135827.png]]
+- Maclaurin’s:![[Pasted image 20231120135856.png]]
+- General Form of Taylor’s + Maclaurin’s:![[Pasted image 20231120140023.png]]
