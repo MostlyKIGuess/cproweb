@@ -1,3 +1,10 @@
+
+
+- Functions that I find useful in cp:
+- s.substr(int index1,int index2) - gives the sub string from index1 to index2.
+
+
+
 |Sr.No.|Function & Description|
 |---|---|
 |1|[void *memchr(const void *str, int c, size_t n)](https://www.tutorialspoint.com/c_standard_library/c_function_memchr.htm)<br><br>Searches for the first occurrence of the character c (an unsigned char) in the first n bytes of the string pointed to, by the argument _str_.|
